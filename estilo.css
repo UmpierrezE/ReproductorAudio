@@ -24,7 +24,7 @@ html{
 .titulo{
   flex:6;
 }
-.play,.stop,.download{
+.play1,.play2,.play3,.stop1,.stop2,.stop3,.download{
   flex:1;
 }
 .titulog{
